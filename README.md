@@ -1,1 +1,1 @@
-"# Cypress-Test-Case-BAW" 
+Cypress Test Case from BAW
